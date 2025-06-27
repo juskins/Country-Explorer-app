@@ -18,7 +18,7 @@ A responsive React application that fetches and displays country data from the R
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/country-explorer.git
+git clone https://github.com/juskins/Country-Explorer-app.git
 cd country-explorer
 ```
 
