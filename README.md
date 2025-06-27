@@ -59,20 +59,6 @@ Launches the test runner in interactive watch mode.
 
 Builds the app for production to the `build` folder.
 
-## Project Structure
-
-```
-src/
-├── components/
-│   ├── CountryCard.js    # Individual country card component
-│   ├── Filters.js        # Search and filter controls
-│   └── Loading.js        # Loading spinner component
-├── App.js                # Main application component
-├── App.css               # Main styles
-└── index.js              # Entry point
-```
-
-
 
 ## Contributing
 
@@ -81,3 +67,7 @@ src/
 3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
+
+
+## Live Hosted Link
+https://explorecountriess.netlify.app/
